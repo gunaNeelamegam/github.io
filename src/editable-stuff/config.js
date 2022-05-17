@@ -6,31 +6,31 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#23A6D5, #c515e8, #ff9b11, #E73C7E, #ff7f7f, #c4bb39",
-  firstName: "Nirmal",
+  firstName: "GUNA",
   middleName: "",
-  lastName: "Kumar ",
+  lastName: " N ",
   message: "| Engineer | Programmer | Embedded Developer | Youtuber |",
   
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/NirmalKnock",
+      url: "https://github.com/gunaNeelamegam",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/nirmalknock",
+      url: "https://www.facebook.com/Guna",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/nirmalknock/",
+      url: "https://www.instagram.com/guna/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/nirmalkumar21/",
+      url: "https://www.linkedin.com/in/Guna21/",
     },
     {
       image: "fa-twitter",
-      url: "https://twitter.com/Nirmalknock",
+      url: "https://twitter.com/Guna",
     },
   ],
 };
@@ -52,10 +52,10 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/Nirmal_kumar_DP.png"),
+  imageLink: require("../editable-stuff/Guna.png"),
   imageSize: 375,
   message:
-    "My name is Nirmal Kumar. I’m a graduate of 2021 from Global Institute Of Engineering & Technology at Vellore with a degree in Electronics and Communication Engineering. I'm most passionate about the Embedded Systems and Electronics, and my goal is to pursue this passion within the field of Embedded software engineering. In my free time I like to make projects that solves the real Issues.",
+    "My name is GunaNeelamegam. I’m a graduate of 2021 from Hindusthan Institute Of Engineering & Technology at Coimbatore with a degree in Computer Science and  Engineering. I'm most passionate about the Embedded Systems and Electronics, and my goal is to pursue this passion within the field of Embedded software engineering. In my free time I like to make projects that solves the real Issues.",
   resume: "https://drive.google.com/file/d/1OKotqYgWDa3Lc-O3Apvd4yPYU_vYEBG9/view?usp=sharing",
 };
 
@@ -67,7 +67,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "NirmalKnock", //i.e."johnDoe12Gh"
+  gitHubUsername: "gunaNeelamegam", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -128,7 +128,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Embedded Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "nirmalknock@gmail.com",
+  email: "guna5127@gamil.com",
 };
 
 const experiences = {
